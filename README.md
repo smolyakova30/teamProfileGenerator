@@ -1,7 +1,17 @@
-# teamProfileGenerator
+# TeamProfileGenerator
 
 ## Description 
 This is command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
+
+User will be asked to describe the first member of their team. The user enters the team member's name, selects that member's role from a list (options include "Engineer," "Intern," and "Manager) and answer additional question for each role.
+
+In this app was used:
+- CSS
+- HTML
+- JavaScript
+- Node.js
+- Jest
+- Bootstrap
 
 ## Table of Contents
 * [Installation](#installation)
